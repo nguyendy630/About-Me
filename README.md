@@ -2,8 +2,6 @@
 
 # Dylan Nguyen
 
-**Software Engineering Student · Builder · Problem Solver**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dylan-nguyen630)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://dylan-nguyen-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dylan.nguyen@mohawkcollege.ca)
